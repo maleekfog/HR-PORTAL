@@ -1,0 +1,7 @@
+{
+  "name": "FOG Originals Talent Portal",
+  "description": "The official recruitment and HR platform for FOG Originals Lagos, Nigeria's premier street luxury fashion house.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
